@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEPI", "DEPI.csproj", "{271B4A24-D5EA-4750-A678-BB0D7EB37939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEPI-Tests", "..\DEPI-Tests\DEPI-Tests.csproj", "{62C57A1F-2B52-4911-8E74-587D743230AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271B4A24-D5EA-4750-A678-BB0D7EB37939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271B4A24-D5EA-4750-A678-BB0D7EB37939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271B4A24-D5EA-4750-A678-BB0D7EB37939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271B4A24-D5EA-4750-A678-BB0D7EB37939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C57A1F-2B52-4911-8E74-587D743230AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C57A1F-2B52-4911-8E74-587D743230AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C57A1F-2B52-4911-8E74-587D743230AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C57A1F-2B52-4911-8E74-587D743230AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDBA1B88-262D-4439-BB0F-39C704FA5C77}
+	EndGlobalSection
+EndGlobal
